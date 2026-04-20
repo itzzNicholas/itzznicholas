@@ -1,5 +1,5 @@
 <h2 align="left">Ciao! Il mio nome d'arte è Nicholas, e nel tempo libero mi diverto nel realizzare programmi open source.</h2>
-### Io la penso così: pagare per il software nel 2026 è illegale.
+# Io la penso così: pagare per il software nel 2026 è illegale.
 
 > "If buying isn't owning, piracy isn't stealing."
 
